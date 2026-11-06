@@ -1,0 +1,12 @@
+
+{
+  "name": "desafio_teste_sudoku",
+  "version": "1.0.0",
+  "description": "Casos de teste para Sudoku Binário 6x6",
+  "main": "sudoku.js",
+  "scripts": {
+    "test": "node --test sudoku.test.js"
+  },
+  "author": "",
+  "license": "ISC"
+}
