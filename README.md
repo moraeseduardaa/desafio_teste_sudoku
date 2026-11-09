@@ -158,3 +158,10 @@ npm test
 | CT37 | Tabuleiro completamente preenchido | Tabuleiro identificado como completo |
 | CT38 | Tabuleiro incompleto | Tabuleiro identificado como incompleto |
 | CT39 | Tabuleiro completo que viola as regras | Tabuleiro rejeitado |
+
+---
+
+## Colaboradores
+
+NOME: EDUARDA PEREIRA DE MORAES 
+RA: 24170522-2
